@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Justin Pezulu! 👋
 
-<!--
-**justinpezulu3/justinpezulu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a bioinformatics student passionate about technology, science, and innovation.  
+🔭 Currently working on **Python & AI** projects  
+🌱 Learning **Java OOP** at university  
+💡 Interests: **Web Development**, **Genomics & Data Analysis**, **AI & Machine Learning**, **Software Engineering**  
+📫 Reach me at: [justinpezulu3@gmail.com](mailto:justinpezulu3@gmail.com)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+- HTML, CSS, JavaScript  
+- C++  
+- Python  
+- Java (currently learning)  
+- Biostatistics
+---
+
+### 🚀 What I'm Building
+- Tools that bridge **genomics** and **AI**  
+- Personal and academic **web development projects**  
+- Experiments with **machine learning models**  
+
+---
+
+### 🤝 Let's Connect!
+I'm always open to collaboration, learning, and tech talks.  
+Feel free to check out my repositories and drop a message!
+
